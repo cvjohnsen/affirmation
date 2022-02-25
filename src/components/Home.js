@@ -19,7 +19,7 @@ const Home = () => {
       <h1>Pick Your Daily Affirmation!</h1>
       <img src={logo} width="300px" onClick={handleClick} alt="" />
       {/*Ternary if not array*/}
-      {affirmations ? <h2 data={affirmations}>"{affirmations}"</h2> : ""}
+      {affirmations ? <h2>"{affirmations}"</h2> : ""}
       <Home />
     </div>
   );

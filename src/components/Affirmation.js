@@ -1,10 +1,10 @@
 // import Home from "./Home";
 
-const Affirmation = ({ data }) => {
+const Affirmation = (props) => {
   return (
     <div style={fonts}>
       <h1>More Affirmations</h1>
-      <h2>{data}</h2>
+      <h2>{}</h2>
     </div>
   );
 };
