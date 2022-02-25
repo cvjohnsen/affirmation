@@ -1,11 +1,10 @@
-import Home from "./Home";
+// import Home from "./Home";
 
 const Affirmation = ({ data }) => {
   return (
     <div style={fonts}>
       <h1>More Affirmations</h1>
       <h2>{data}</h2>
-   
     </div>
   );
 };
