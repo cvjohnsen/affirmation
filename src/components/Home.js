@@ -20,7 +20,6 @@ const Home = () => {
       <img src={logo} width="300px" onClick={handleClick} alt="" />
       {/*Ternary if not array*/}
       {affirmations ? <h2>"{affirmations}"</h2> : ""}
-      <Home />
     </div>
   );
 };
