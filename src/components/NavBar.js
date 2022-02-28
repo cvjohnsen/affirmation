@@ -14,7 +14,7 @@ const NavBar = () => {
         Home
       </Link>
       <Link to="/affirmation" style={{ color: "white" }}>
-        Affirmation
+      Affirmation
       </Link>
     </nav>
   );

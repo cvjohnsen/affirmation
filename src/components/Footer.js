@@ -1,9 +1,13 @@
+import { Link } from "react-router-dom";
+
 const Footer = () => {
   return (
     <div style={container}>
+      <Link to="/affirmation" style={{ color: "white" }}>
+        <h3>More Affirmation</h3>
+      </Link>
       <h3>Terms & Condition</h3>
       <h3>Contact</h3>
-      <h3>More Affirmations</h3>
     </div>
   );
 };
@@ -14,7 +18,7 @@ const container = {
   backgroundColor: "#A1C6E1",
   fontFamily: "Architects Daughter",
   color: "#FFFFFF",
-  marginTop: "350px",
+  marginTop: "300px",
 };
 
 export default Footer;
