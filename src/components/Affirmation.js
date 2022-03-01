@@ -7,12 +7,15 @@ const Affirmation = () => {
   const [moreAffirmations, setMoreAffirmations] = useState("");
 
   //useEffect Fetch Affirmation
-  useEffect(async () => {
-    const data = await axios.get(
-      "https://dulce-affirmations-api.herokuapp.com/affirmation"
-    );
-    console.log(data);
-    setMoreAffirmations(data.data[0].phrase);
+  useEffect(() => {
+    async function fetchData() {
+      const data = await axios.get(
+        "https://dulce-affirmations-api.herokuapp.com/affirmation"
+      );
+      console.log(data);
+      setMoreAffirmations(data.data[0].phrase);
+    }
+    fetchData();
   }, []);
 
   return (
