@@ -1,4 +1,5 @@
-Wireframe
+Wireframe:
+
 ![affirmation_wireframe](https://user-images.githubusercontent.com/79131508/156088868-4e4a3cbc-b0ab-4449-8f94-fb29ff98a142.jpg)
 
 
