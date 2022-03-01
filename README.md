@@ -1,3 +1,25 @@
+Wireframe:
+
+![affirmation_wireframe](https://user-images.githubusercontent.com/79131508/156088868-4e4a3cbc-b0ab-4449-8f94-fb29ff98a142.jpg)
+
+
+
+Netlify:
+https://distracted-lamport-614fe0.netlify.app/
+
+API:
+https://dulce-affirmations-api.herokuapp.com/affirmation
+
+*Site features, cycle through affirmation from the API.
+
+*Upcoming Feature is being able to post your own affirmation. Also, more styling and responsive design will be implemnted soon.
+
+*For this project, I made a logo using Adobe Illustrator. 
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
