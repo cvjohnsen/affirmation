@@ -1,3 +1,12 @@
+Wireframe
+![affirmation_wireframe](https://user-images.githubusercontent.com/79131508/156088868-4e4a3cbc-b0ab-4449-8f94-fb29ff98a142.jpg)
+
+
+API:
+https://dulce-affirmations-api.herokuapp.com/affirmation
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
