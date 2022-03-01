@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div style={container}>
       <Link to="/affirmation" style={{ color: "white" }}>
-        <h3>More Affirmation</h3>
+        <h3>Affirmation</h3>
       </Link>
       <h3>Terms & Condition</h3>
       <h3>Contact</h3>
