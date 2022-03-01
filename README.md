@@ -12,9 +12,12 @@ https://dulce-affirmations-api.herokuapp.com/affirmation
 
 *Site features, cycle through affirmation from the API.
 
-*Upcoming Feature is being able to post your own affirmation. It's still a working progress. Also, more styling and responsive design will be implemnted.
+*Upcoming Feature is being able to post your own affirmation. Also, more styling and responsive design will be implemnted soon.
 
 *For this project, I made a logo using Adobe Illustrator. 
+
+
+
 
 
 # Getting Started with Create React App
