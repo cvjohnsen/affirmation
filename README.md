@@ -10,6 +10,11 @@ https://distracted-lamport-614fe0.netlify.app/
 API:
 https://dulce-affirmations-api.herokuapp.com/affirmation
 
+*Site features, cycle through affirmation from the API.
+
+*Upcoming Feature is being able to post your own affirmation. It's still a working progress. Also, more styling and responsive design will be implemnted.
+
+*For this project, I made a logo using Adobe Illustrator. 
 
 
 # Getting Started with Create React App
